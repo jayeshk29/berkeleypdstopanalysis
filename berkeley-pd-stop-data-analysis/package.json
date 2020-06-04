@@ -1,0 +1,14 @@
+{
+  "name": "@jayeshk29/berkeley-pd-stop-data-analysis",
+  "main": "ef735f6e4e6ad66f@782.js",
+  "version": "782.0.0",
+  "homepage": "https://observablehq.com/@jayeshk29/berkeley-pd-stop-data-analysis",
+  "author": {
+    "name": "Jayesh Kaushik",
+    "url": "https://observablehq.com/@jayeshk29"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
